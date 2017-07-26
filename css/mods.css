@@ -1,0 +1,89 @@
+#ab-testing {
+	margin-left: 15%;
+	width: 70%;
+}
+.ab-intro {
+	text-align: justify;
+}
+ #huff-post {
+	padding-top: 5%;
+	padding-left: 20%;
+	padding-bottom: 2%;
+}
+.bg-text {
+	width: 100%;
+	text-align: justify;
+}
+#bg-image, #hp-image {
+	width: 60%;
+	padding-top: 2%;
+}
+#ab-caption {
+	padding-left: 15%;
+	padding-top: 3%;
+}
+#ab-image {
+	width: 100%;
+}
+#research {
+	width: 90%;
+	margin-left: 5%;
+}
+.modal-dialog { /*need to change in min file*/
+	width: 102%;
+}
+.nav-tabs {
+	margin-left: 17%;
+	margin-right: 17%;
+}
+.tab-pane p {
+	text-align: justify;
+}
+#prosnbc5 {
+	margin-left: 47%;
+}
+#consnbc5 {
+	margin-left: 47%;
+}
+#nbc5desktop {
+	margin-left: 47%;
+}
+#nbc5mobile {
+	margin-left: 47%;
+}
+#abc7pros {
+	margin-left: 47%;
+}
+#abc7cons {
+	margin-left: 47%;
+}
+#abc7desktop {
+	margin-left:47%;
+}
+#abc7mobile {
+	margin-left: 47%;
+}
+#telemundopros {
+	margin-left: 47%;
+}
+#telemundodesktop {
+	margin-left: 47%;
+}
+#telemundomobile {
+	margin-left: 47%;
+}
+#unipros {
+	margin-left: 47%;
+}
+#unicons {
+	margin-left: 47%;
+}
+#unidesktop {
+	margin-left: 47%;
+}
+#unilaptop {
+	margin-left: 47%;
+}
+#survey-synopsis {
+	text-align: justify;
+}
