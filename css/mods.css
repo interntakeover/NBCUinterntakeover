@@ -81,6 +81,9 @@
 #unidesktop {
 	margin-left: 47%;
 }
+#unimobile {
+	margin-left: 47%;
+}
 #unilaptop {
 	margin-left: 47%;
 }
@@ -89,4 +92,10 @@
 }
 #slideshow {
 	margin-left: 9%;
+}
+#quotes {
+	margin: 3%;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: justify;
 }
